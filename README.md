@@ -16,7 +16,7 @@ This specialization was updated in April 2021 to include developments in deep le
 
 ### Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - PA 1 - Python Basics with Numpy](#)
+  - [<span style="color:blue"> Week 2 - PA 1 - Python Basics with Numpy</span>](#)
   - [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](#)
   - [Week 3 - PA 3 - Planar data classification with one hidden layer](#)
   - [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](#)
